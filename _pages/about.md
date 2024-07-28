@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 This is a test.
 
 研究方向简介
